@@ -4,6 +4,9 @@ This repository demonstrates how to build real-time AI applications with **Sprin
 📖 **Dive Deeper**: For a complete walkthrough, detailed explanations of streaming, Server-Sent Events (SSE), and step-by-step instructions for building this example application, read our comprehensive blog post.<br>
 👉 [Spring AI Streaming Response: Build Real-Time AI Apps](https://bootcamptoprod.com/spring-ai-streaming-response-guide/)
 
+🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
+👉 [Spring AI Streaming Response Tutorial | Build Real-Time AI Apps](https://youtu.be/2AhRVZsxcUM)
+
 ---
 
 ## 📦 Environment Variables
